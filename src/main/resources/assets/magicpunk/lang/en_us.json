@@ -1,0 +1,13 @@
+{
+  "itemGroup.magicpunk": "Example Mod Tab",
+  "block.magicpunk.example_block": "Example Block",
+  "item.magicpunk.example_item": "Example Item",
+
+  "magicpunk.configuration.title": "MagicPunk Configs",
+  "magicpunk.configuration.section.magicpunk.common.toml": "MagicPunk Configs",
+  "magicpunk.configuration.section.magicpunk.common.toml.title": "MagicPunk Configs",
+  "magicpunk.configuration.items": "Item List",
+  "magicpunk.configuration.logDirtBlock": "Log Dirt Block",
+  "magicpunk.configuration.magicNumberIntroduction": "Magic Number Text",
+  "magicpunk.configuration.magicNumber": "Magic Number"
+}
